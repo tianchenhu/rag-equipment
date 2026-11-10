@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 索引属于构建产物，跑 python rag.py 可重新生成
+index.npz
+
+# IDE
+.idea/
+.vscode/
+
+# 内部笔记，不对外
+笔记-内部使用.md
+面试话术.md
+_reference/
+
+# 系统
+.DS_Store
+Thumbs.db

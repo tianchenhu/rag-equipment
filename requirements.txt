@@ -1,0 +1,8 @@
+# 句向量编码
+sentence-transformers>=2.6.0
+
+# 矩阵运算与相似度计算
+numpy>=1.24
+
+# 调用本地 Ollama 接口
+requests>=2.31.0
